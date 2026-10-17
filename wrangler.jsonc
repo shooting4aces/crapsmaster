@@ -1,0 +1,6 @@
+{
+  // Craps Master: a single static page served by Cloudflare Workers static assets.
+  "name": "crapsmaster",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./public" }
+}
