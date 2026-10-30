@@ -4,3 +4,5 @@
   Cache-Control: no-cache
 /bankroll/index.html
   Cache-Control: no-cache
+/bankroll/ocr/*
+  Cache-Control: public, max-age=2592000
