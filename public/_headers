@@ -1,0 +1,6 @@
+/bankroll/version.json
+  Cache-Control: no-store
+/bankroll/
+  Cache-Control: no-cache
+/bankroll/index.html
+  Cache-Control: no-cache
